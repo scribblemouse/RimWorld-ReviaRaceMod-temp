@@ -5,6 +5,5 @@
     <label>Red Haze</label>
     <addictionHediff>ReviaRaceRedHazeAddiction</addictionHediff>
     <canBinge>false</canBinge>
-    <generateAddictionGenes>false</generateAddictionGenes>
   </ChemicalDef>
 </Defs>
